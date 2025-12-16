@@ -1,0 +1,41 @@
+1. nápad na nějaký program nebo aplikaci
+2. návrh a plánování vývoje
+3. programování
+4. testování
+5. vydání
+6. používání lidmi
+7. aktualizace a vylepšení
+8. postupné nahrazení jiným programem nebo aplikací (zastarání)
+9. ukončení vývoje a jakékoliv práce na daném programu nebo aplikaci
+
+
+
+1. početí
+2. narození člověka
+3. dětství
+4. školní věk
+5. dospívání
+6. dospělost
+7. práce
+8. založení rodiny
+9. stárnutí
+10. důchodový věk
+11. smrt
+
+
+
+1. narození
+2. učení
+3. práce
+4. smrt
+
+
+
+1. narození
+2. život
+3. smrt
+
+
+
+1. narození
+2. smrt
